@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download Files for <%= subject %></title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <h1>Download Files for <%= subject %></h1>
+  <ul class="file-list">
+    <% files.forEach(file => { %>
+      <li>
+        <a href="/download/<%= subject %>/<%= file %>" class="button download-button"><%= file %></a>
+      </li>
+    <% }); %>
+  </ul>
+  <a href="/" class="button">Back to Home</a>
+</body>
+</html>

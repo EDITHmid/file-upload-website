@@ -1,0 +1,17 @@
+Write a program to create a simple webpage using HTML.
+b. Write a program to create a simple webpage with registration form using HTML and CSS,
+2 a. Write a program to validate a registration form using JavaScript. b. Write a JavaScript to design a simple calculator to perform the following operations: Addition, Subtraction, Multiplication and Division.
+3 a. Write a program to create and Build a Password Strength Check using JQuery.
+b. Write a program to create and build a star rating system using JQuery.
+4. Write a program to create a simple calculator Application using React JS
+5 a. Write a program to create a voting application using React JS b. Create a Simple Login form using React JS
+6a Using Angular JS Implement an Input Validation
+implement angularjs to display the 10 student details in table format.
+7  implement nodejs modules
+b. Develop CRUP Applications using (NoSQL MongoDB) database
+Case Study 1:Develop a Tutorial Website
+Case Study 2:Develop an online survey application
+Course Outcomes:
+1. Design and implement responsive and user-friendly front-end miterfaces using HTML5, CSS3, and JavaScript
+2. Apply Bront-end frameworks (es. React, Angular) to create dynamic and interactive web applications
+3. Develop server-side logic using languages like Nodejs
